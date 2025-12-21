@@ -29,6 +29,6 @@ no Power BI para análise de dados de vendas. As principais habilidades desenvol
 
 ## Observações
 Dados fictícios ou educacionais, utilizados para fins de estudo e portfólio.
-Projeto desenvolvido com base em curso da plataforma Alura, com organização
+Projeto desenvolvido com base em curso da plataforma **Alura**, com organização
 e documentação próprias.
 
