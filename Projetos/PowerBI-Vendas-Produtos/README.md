@@ -44,7 +44,7 @@ O dashboard final apresenta uma visão analítica sobre **Vendas, Custos, Margem
 
 ## Dashboard Final
 
-![Dashboard de Vendas, Custos, Margem de Lucro e KPIs](PowerBI-Vendas-Produtos/dashboard-finalizado/imagem-dashboard.png)
+![Dashboard de Vendas, Custos, Margem de Lucro e KPIs](./dashboard-finalizado/imagem-dashboard.png)
 
 **Principais análises visuais:**
 - Margem de lucro por categoria
