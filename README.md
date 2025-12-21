@@ -28,6 +28,13 @@ tipos de análise e visualização de dados.
 - Indicadores de desempenho
 - Visualização de dados de forma clara
 
+### PowerBI-Vendas-Produtos
+- Analisar vendas e custos
+- Calcular e acompanhar a margem de lucro
+- Criar indicadores-chave de desempenho (KPIs)
+- Aplicar boas práticas de modelagem de dados
+- Utilizar DAX para métricas confiáveis
+
 ## Ferramentas Utilizadas
 - Power BI Desktop
 
