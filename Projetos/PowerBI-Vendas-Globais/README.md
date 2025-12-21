@@ -13,4 +13,4 @@ indicadores e visualizações claras.
 - Evolução das vendas ao longo do tempo
 
 ## Observações
-Dados fictícios ou educacionais, utilizados para fins de estudo e portfólio. Projeto desenvolvido com base em curso da plataforma Data Science Academy módulo 2 com documentação própria.
+Dados fictícios ou educacionais, utilizados para fins de estudo e portfólio. Projeto desenvolvido com base em curso da plataforma **Data Science Academy** módulo 2 com documentação própria.
