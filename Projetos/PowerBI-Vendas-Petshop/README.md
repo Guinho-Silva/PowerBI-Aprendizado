@@ -3,14 +3,24 @@
 Projeto desenvolvido em Power BI com foco na análise de vendas e operações de um petshop,
 construindo dashboards interativos para insights sobre produtos, clientes e desempenho financeiro.
 
-## Objetivo
+## Objetivos
 Analisar o desempenho de vendas de produtos para pets (ex.: rações, brinquedos e acessórios),
 por categoria e período, utilizando indicadores e visualizações claras para otimizar decisões.
 
 ## Principais Análises
 - Receita total por categoria de produto
 - Vendas por cliente e região
-- Evolução das vendas ao longo do tempo e sazonalidade
+- Evolução das vendas ao longo do tempo
+
+
+## Tecnologias Utilizadas
+- Power BI  
+- DAX (Data Analysis Expressions)  
+- Power Query (ETL)  
+- Modelagem de Dados  
+- Relacionamentos entre Tabelas
+- Power BI Service
+  
 
 ## Habilidades Demonstradas
 Este projeto reflete expertise em construção e publicação de dashboards no Power BI, aplicada para processar dados de petshop e gerar insights acionáveis. Aqui estão as principais habilidades utilizadas:
@@ -23,6 +33,32 @@ Este projeto reflete expertise em construção e publicação de dashboards no P
 
 Essas habilidades garantem que o projeto seja intuitivo, escalável e focado em insights práticos para operações de petshop, desde a conexão de dados até a entrega de dashboards prontos para uso.
 
+
+## Dashboard Final - PetShop - Gatitos
+
+![Dashboard de Vendas](./dashboard-finalizado/imagem-dashboard.png)
+
+
+
+**Principais análises visuais:**
+- Média dos Pets
+- Quantidade de Vendas
+- Faturamento Total
+- Faturamento por Gênero
+- Faturamento por Bairro
+- Evolução da margem de lucro ao longo dos anos
+- Produtos Vendidos
+
+
+
+
 ## Observações
 Dados fictícios ou educacionais, utilizados para fins de estudo e portfólio. Projeto desenvolvido com base em curso da plataforma **Alura**, com organização
 e documentação próprias.
+
+
+
+
+
+
+---
