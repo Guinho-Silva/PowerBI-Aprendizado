@@ -3,6 +3,10 @@
 Projeto desenvolvido em Power BI com foco na análise de vendas globais
 e construção de dashboards interativos.
 
+![Dashboard de Vendas Globais](./dashboard-finalizado/imagem-dashboard.png)
+
+
+
 ## Objetivo
 Analisar o desempenho de vendas por região e período, utilizando
 indicadores e visualizações claras.
