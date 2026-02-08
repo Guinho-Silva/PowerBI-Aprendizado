@@ -7,6 +7,10 @@ O dashboard final apresenta uma visão analítica sobre **Vendas, Custos, Margem
 
 ---
 
+## Dashboard Final
+
+![Dashboard de Vendas, Custos, Margem de Lucro e KPIs](./dashboard-finalizado/imagem-dashboard.png)
+
 ## Objetivos
 - Analisar vendas e custos
 - Calcular e acompanhar a margem de lucro
@@ -42,9 +46,6 @@ O dashboard final apresenta uma visão analítica sobre **Vendas, Custos, Margem
 
 ---
 
-## Dashboard Final
-
-![Dashboard de Vendas, Custos, Margem de Lucro e KPIs](./dashboard-finalizado/imagem-dashboard.png)
 
 **Principais análises visuais:**
 - Margem de lucro por categoria
