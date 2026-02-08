@@ -3,6 +3,8 @@
 Projeto desenvolvido em Power BI com foco na análise de vendas de e-commerce
 e construção de dashboards interativos.
 
+![Dashboard de Vendas de E-Commerce](./dashboard-finalizado/imagem-dashboard.png)
+
 ## Objetivo
 Analisar o desempenho de vendas por região e período, utilizando indicadores
 e visualizações claras para apoio à tomada de decisão.
