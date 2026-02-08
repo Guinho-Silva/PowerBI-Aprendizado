@@ -8,33 +8,15 @@ tipos de análise e visualização de dados.
 
 ## Projetos e Foco de Aprendizado
 
-### [PowerBI-Vendas-Globais](Projetos/PowerBI-Vendas-Ecommerce)
+### [PowerBI-Vendas-Ecommerce](Projetos/PowerBI-Vendas-Ecommerce)
 
-- Análise de vendas por região
-- Comparação de faturamento por período
-- Criação de métricas de desempenho
+### [PowerBI-Vendas-Globais](Projetos/PowerBI-Vendas-Globais)
 
-### PowerBI-Vendas-Ecommerce
-- Análise de vendas online
-- Avaliação de produtos mais vendidos
-- Visualização de tendências de consumo
+### [PowerBI-Vendas-Livraria](Projetos/PowerBI-Vendas-Livraria)
 
-### PowerBI-Vendas-Livraria
-- Análise de vendas por categoria de livros
-- Comparação de faturamento
-- Organização de dados por período
+### [PowerBI-Vendas-Petshop](Projetos/PowerBI-Vendas-Petshop)
 
-### PowerBI-Vendas-Petshop
-- Análise de vendas por tipo de produto
-- Indicadores de desempenho
-- Visualização de dados de forma clara
-
-### PowerBI-Vendas-Produtos
-- Analisar vendas e custos
-- Calcular e acompanhar a margem de lucro
-- Criar indicadores-chave de desempenho (KPIs)
-- Aplicar boas práticas de modelagem de dados
-- Utilizar DAX para métricas confiáveis
+### [PowerBI-Vendas-Produtos](Projetos/PowerBI-Vendas-Produtos)
 
 ## Ferramentas Utilizadas
 - Power BI Desktop
