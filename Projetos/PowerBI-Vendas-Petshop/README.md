@@ -3,6 +3,10 @@
 Projeto desenvolvido em Power BI com foco na análise de vendas e operações de um petshop,
 construindo dashboards interativos para insights sobre produtos, clientes e desempenho financeiro.
 
+## Dashboard Final - PetShop - Gatitos
+
+![Dashboard de Vendas](./dashboard-finalizado/imagem-dashboard.png)
+
 ## Objetivos
 Analisar o desempenho de vendas de produtos para pets (ex.: rações, brinquedos e acessórios),
 por categoria e período, utilizando indicadores e visualizações claras para otimizar decisões.
@@ -32,13 +36,6 @@ Este projeto reflete expertise em construção e publicação de dashboards no P
 - **Power BI Service**: Publicação e compartilhamento de relatórios na nuvem, permitindo atualizações automáticas, acesso remoto para gestores e colaboração em tempo real para decisões rápidas sobre estoques ou promoções.
 
 Essas habilidades garantem que o projeto seja intuitivo, escalável e focado em insights práticos para operações de petshop, desde a conexão de dados até a entrega de dashboards prontos para uso.
-
-
-## Dashboard Final - PetShop - Gatitos
-
-![Dashboard de Vendas](./dashboard-finalizado/imagem-dashboard.png)
-
-
 
 **Principais análises visuais:**
 - Média dos Pets
