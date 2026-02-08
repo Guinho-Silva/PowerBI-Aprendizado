@@ -8,7 +8,8 @@ tipos de análise e visualização de dados.
 
 ## Projetos e Foco de Aprendizado
 
-### PowerBI-Vendas-Globais
+### [PowerBI-Vendas-Globais](PowerBI-Aprendizado/Projetos/PowerBI-Vendas-Ecommerce)
+
 - Análise de vendas por região
 - Comparação de faturamento por período
 - Criação de métricas de desempenho
